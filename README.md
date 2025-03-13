@@ -23,7 +23,7 @@ The analysis covers customer data from July 2012 to June 2014, focusing on purch
 
 To get this project, you can clone it by running the following code:
 
-    git clone git@github.com:ilhamtaufieq17/Supermarket-Customer-Analysis.git
+    git clone git@github.com:hamzahmulyana/Supermarket-Customer-Analysis.git
 
 ## Project Organization
 
